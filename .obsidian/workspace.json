@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51eae0e1eb7441ab",
+        "id": "fecf50e663fa5ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "58193ced2daf0830",
+            "id": "3b475ec3cab6ef3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,8 +107,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "58193ced2daf0830",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c0a6577ee76938bc",
@@ -153,12 +162,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58193ced2daf0830",
+  "active": "3b475ec3cab6ef3b",
   "lastOpenFiles": [
+    "Database Overview.md",
     "Profiles/FP-01 Zapp.md",
     "Profiles/! Personnel.md",
     "Intel/! Intel.md",
-    "Database Overview.md",
     "Intel",
     "Directives/! Directives.md",
     "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
