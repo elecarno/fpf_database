@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Templates/Template - Battle Report.md",
-                "mode": "source",
+                "file": "Reports/TWC/TWC Mission Report - 21.09.2200.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Templates/Template - Battle Report.md",
+                "file": "Reports/TWC/TWC Mission Report - 21.09.2200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Templates/Template - Battle Report.md",
+                "file": "Reports/TWC/TWC Mission Report - 21.09.2200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Templates/Template - Battle Report.md"
+                "file": "Reports/TWC/TWC Mission Report - 21.09.2200.md"
               }
             }
           }
@@ -163,12 +163,14 @@
   },
   "active": "762ac11fce093145",
   "lastOpenFiles": [
+    "Database Overview.md",
+    "Reports/! Reports.md",
+    "Reports/TWC/TWC Mission Report - 21.09.2200.md",
     "File Templates/Template - Mission Report.md",
     "File Templates/Template - Battle Report.md",
-    "Database Overview.md",
+    "Reports/TWC",
     "Profiles",
     "Home.md",
-    "Reports/! Reports.md",
     "File Templates",
     "Reports"
   ]
