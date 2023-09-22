@@ -1,6 +1,6 @@
 #directive
 
-AUTHOR: `Director Meeferradness`
+AUTHOR: [[FP-03 Meeferradness]]
 DATE: `16.09.2200`
 
 DIRECTIVE TITLE: Operation Citadel Shield

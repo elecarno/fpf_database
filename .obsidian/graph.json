@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Intel  ",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:Profiles  ",
+      "query": "path:Personnel  ",
       "color": {
         "a": 1,
         "rgb": 5420768
@@ -39,7 +39,21 @@
       "query": "path:Factions  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431406
+      }
+    },
+    {
+      "query": "path:Logs  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:Assets  ",
+      "color": {
+        "a": 1,
+        "rgb": 14133805
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 0.817708333333333,
   "linkDistance": 196,
-  "scale": 0.14068322961480015,
+  "scale": 0.2765207724918765,
   "close": true
 }

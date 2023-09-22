@@ -1,3 +1,4 @@
+### Federation Primaries
 - [[FP-01 Zapp]]
 - [[FP-02 Scheme]]
 - [[FP-03 Meeferradness]]
@@ -9,6 +10,9 @@
 - [[FP-09 Marc]]
 - [[FP-10 Steelshaper]]
 - [[FP-11 Zathura]]
+- [[FP-12 Starbuck]]
+- [[FP-13 Mazephyr]]
+- [[FP-14 Mik]]
 - [[FP-15 Gorwyn]]
 - [[FP-16 Arkady Orlunda]]
 - [[FP-17 Darkdodo]]
@@ -22,3 +26,12 @@
 - [[FP-25 Tallen]]
 - [[FP-26 Civ]]
 - [[FP-27 Ghostrobits]]
+- [[FP-28 Boomclaw]]
+
+### Federation Secondaries
+- FS-01 : ZAP John Flurgundy
+- FS-02 : ZAP Trick Shamland 
+- FS-03 : ZAP Rob
+
+### Federation Tertiaries
+- ZAP Communications Workers

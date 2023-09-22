@@ -11,12 +11,8 @@
             "id": "3b475ec3cab6ef3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profiles/! Personnel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/! Personnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/! Personnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Profiles/! Personnel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,41 +156,44 @@
   },
   "active": "3b475ec3cab6ef3b",
   "lastOpenFiles": [
-    "Profiles/FP-27 Ghostrobits.md",
-    "Profiles/FP-26 Civ.md",
-    "Profiles/FP-25 Tallen.md",
-    "Profiles/FP-24 PeacefulOaf.md",
-    "Profiles/FP-23 Biscuits.md",
-    "Profiles/FP-22 ChocoChip.md",
-    "Profiles/FP-21 Mojinate.md",
-    "Profiles/FP-20 LostKeys.md",
-    "Profiles/FP-19 SciFive.md",
-    "Profiles/FP-18 H83.md",
-    "Profiles/FP-17 Darkdodo.md",
-    "Profiles/FP-16 Arkady Orlunda.md",
-    "Profiles/FP-07 Avery Lydian.md",
-    "Profiles/! Personnel.md",
-    "Profiles/FP-15 Gorwyn.md",
-    "Profiles/FP-12 Starbuck.md",
-    "Profiles/FP-13 Mazephyr.md",
-    "Profiles/FP-14 Mik.md",
+    "Logs/! Logs.md",
     "Database Overview.md",
-    "Profiles/FP-09 Marc.md",
-    "Profiles/FP-10 Steelshaper.md",
-    "Profiles/FP-11 Zathura.md",
-    "Profiles/FP-08 Pleiades.md",
-    "Profiles/FP-06 Westwood.md",
-    "Profiles/FP-05 Pleiades.md",
-    "Factions/! Factions.md",
+    "Personnel/! Personnel.md",
+    "Personnel/FP-05 Pleiades.md",
+    "Personnel/FP-01 Zapp.md",
+    "Personnel/FP-02 Scheme.md",
+    "Personnel/FP-28 Boomclaw.md",
+    "Personnel/FP-27 Ghostrobits.md",
+    "Directives/! Directives.md",
+    "! file templates/Template - Asset.md",
+    "Assets/! Assets.md",
+    "Reports/! Reports.md",
+    "Logs/21.09.2200.md",
+    "Assets",
+    "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
+    "Logs",
+    "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
+    "! attachments/zap_wreckage_at_orlunda_tower.png",
+    "! attachments",
+    "Pasted image 20230922194451.png",
+    "Pasted image 20230922194452.png",
+    "Reports/UNS Incident Report - 25.07.2200.md",
+    "Reports/TWC Mission Report - 21.09.2200.md",
+    "Reports/TWC Invasion of Hale - 13.08.2200.md",
+    "Reports/TWC Grid Performance Report - 21.07.2200.md",
+    "Reports/RCC Battle Report - 03.09.2200.md",
+    "Personnel/FP-26 Civ.md",
+    "Personnel/FP-25 Tallen.md",
+    "Personnel/FP-24 PeacefulOaf.md",
+    "Personnel/FP-23 Biscuits.md",
+    "Personnel/FP-22 ChocoChip.md",
+    "Personnel/FP-21 Mojinate.md",
     "Factions",
     "Intel",
     "Directives/Untitled",
     "Directives",
     "Reports/RCC",
     "Profiles/TWC",
-    "Reports/TWC",
-    "Profiles",
-    "! File Templates",
-    "Reports"
+    "Reports/TWC"
   ]
 }
