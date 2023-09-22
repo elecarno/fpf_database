@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Intel  ",
@@ -53,7 +53,7 @@
       "query": "path:Assets  ",
       "color": {
         "a": 1,
-        "rgb": 14133805
+        "rgb": 9121239
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 0.817708333333333,
   "linkDistance": 196,
-  "scale": 0.2765207724918765,
+  "scale": 0.2765207724918774,
   "close": true
 }
