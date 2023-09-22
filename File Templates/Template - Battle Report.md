@@ -1,6 +1,6 @@
 #report
 
-AUTHOR: `Full Name`
+AUTHOR: `Full Name, [Faction Code]`
 DATE: `Stardate and Time (if available)`
 LOCATIONS INVOLVED: `Database Identification (if available)`
 
@@ -9,10 +9,9 @@ FACTIONS INVOLVED: `Faction Codes`
 
 COLOQUIAL TITLE: `Leave as N/A if unavailable`
 
-MISSION GOALS: `Intent of the mission`
-MISSION RESULTS: `Resulting effects of the mission`
+AFTERMATH SUMMARY: `Any immediately important information regarding the results of the engagement`
 
-### MISSION BREIFING
-- `formatted preferably in bullet points`
+### DAMAGE REPORT
+- `List of all assets lost or damaged and summary of condition`
 ### DESCRIPTION OF EVENTS
 - `formatted as appropriate`
