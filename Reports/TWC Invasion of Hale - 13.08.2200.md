@@ -2,6 +2,7 @@
 
 AUTHOR: `Director Meeferradness`, `TWC`
 DATE: `13.08.2200`
+REPORT TYPE: MISSION
 LOCATIONS INVOLVED: `HaleE2`
 
 ASSETS INVOLVED: `Battlecruiser "Witch"`, `Warship "Tempest"`, `TWC Flagship "Ragnarok"`

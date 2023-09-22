@@ -2,6 +2,7 @@
 
 AUTHOR: `Arkady Orlunda`, `TWC`
 DATE: `21.09.2200`
+REPORT TYPE: MISSION
 LOCATIONS INVOLVED: `Orlunda`, `Orlunda's Cradle`, `Orlunda Tower`
 
 ASSETS INVOLVED: `Flint Mk2 Scout Plane`, `Warden Multirole Corvette`

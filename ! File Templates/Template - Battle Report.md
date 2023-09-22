@@ -2,6 +2,7 @@
 
 AUTHOR: `Full Name, [Faction Code]`
 DATE: `Stardate and Time (if available)`
+REPORT TYPE: BATTLE
 LOCATIONS INVOLVED: `Database Identification (if available)`
 
 ASSETS INVOLVED: `Database Reference Names & Identification Code (if available)`
