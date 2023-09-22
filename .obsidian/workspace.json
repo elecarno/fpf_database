@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Overview.md",
-                "mode": "preview",
+                "file": "! File Templates/Template - Directive.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Overview.md",
+                "file": "! File Templates/Template - Directive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Overview.md",
+                "file": "! File Templates/Template - Directive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Overview.md"
+                "file": "! File Templates/Template - Directive.md"
               }
             }
           }
@@ -161,21 +161,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58193ced2daf0830",
+  "active": "d63288349a8a2b8d",
   "lastOpenFiles": [
-    "Profiles/FP-01 Zapp.md",
+    "Directives",
+    "Reports/RCC/RCC Battle Report - 03.09.2200.md",
+    "! File Templates/Template - Directive.md",
+    "Reports/TWC/TWC Invasion of Hale - 13.08.2200.md",
     "Reports/TWC/TWC Mission Report - 21.09.2200.md",
-    "Database Overview.md",
-    "Profiles/! Personnel.md",
-    "File Templates/Template - Personnel Profile.md",
-    "File Templates/Template - Battle Report.md",
-    "File Templates/Template - Mission Report.md",
-    "Profiles/TWC",
     "Reports/! Reports.md",
+    "Reports/RCC",
+    "! File Templates/Template - Personnel Profile.md",
+    "Profiles/! Personnel.md",
+    "Profiles/FP-01 Zapp.md",
+    "! File Templates/Template - Mission Report.md",
+    "Database Overview.md",
+    "! File Templates/Template - Battle Report.md",
+    "Profiles/TWC",
     "Reports/TWC",
     "Profiles",
     "Home.md",
-    "File Templates",
+    "! File Templates",
     "Reports"
   ]
 }
