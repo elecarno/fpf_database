@@ -1,9 +1,9 @@
 #profile 
 
-FEDERATION ID: `FP-24`
-NAME: `Tallen`
-FACTION: `ZAP`
-RANK/OCCUPATION: `Member of ZAP`
+FEDERATION ID: `FP-26`
+NAME: `Civ`
+FACTION: `ICE`
+RANK/OCCUPATION: `Member of ICE`
 STATUS: `On Leave`
 
 ### Personnel Log
