@@ -15,3 +15,4 @@
 - [[Template - Battle Report]]
 - [[Template - Personnel Profile]]
 - [[Template - Directive]]
+- [[Template - Incident Report]]
