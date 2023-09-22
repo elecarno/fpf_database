@@ -1,6 +1,6 @@
 #report
 
-AUTHOR: `Full Name`
+AUTHOR: `Full Name, [Faction Code]`
 DATE: `Stardate and Time (if available)`
 REPORT TYPE: MISSION
 LOCATIONS INVOLVED: `Database Identification (if available)`

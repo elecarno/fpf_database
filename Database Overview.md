@@ -1,4 +1,5 @@
 ### Sections
+- [[! Factions]]
 - [[! Reports]]
 - [[! Personnel]]
 - [[! Directives]]

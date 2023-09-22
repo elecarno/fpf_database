@@ -4,6 +4,7 @@ Reports are sorted by their author's faction.
 - [[RCC Battle Report - 03.09.2200]]
 
 ### TWC
+- [[TWC Grid Performance Report - 21.07.2200]]
 - [[TWC Invasion of Hale - 13.08.2200]]
 - [[TWC Mission Report - 21.09.2200]]
 

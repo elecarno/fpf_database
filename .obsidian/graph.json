@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5420768
       }
+    },
+    {
+      "query": "path:Factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,

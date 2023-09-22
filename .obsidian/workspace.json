@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Profiles/FP-26 Ghostrobits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Profiles/FP-26 Ghostrobits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Profiles/FP-26 Ghostrobits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Overview.md"
+                "file": "Profiles/FP-26 Ghostrobits.md"
               }
             }
           },
@@ -164,31 +164,40 @@
   },
   "active": "3b475ec3cab6ef3b",
   "lastOpenFiles": [
-    "Reports/UNS Incident Report - 25.07.2200.md",
-    "Reports/TWC Mission Report - 21.09.2200.md",
-    "Reports/TWC Invasion of Hale - 13.08.2200.md",
-    "Reports/RCC Battle Report - 03.09.2200.md",
-    "! File Templates/Template - Mission Report.md",
-    "! File Templates/Template - Battle Report.md",
-    "! File Templates/Template - Directive.md",
-    "! File Templates/Template - Incident Report.md",
-    "Reports/! Reports.md",
-    "! File Templates/Template - Personnel Profile.md",
+    "Profiles/FP-25 Civ.md",
+    "Profiles/FP-24 Tallen.md",
+    "Profiles/FP-26 Ghostrobits.md",
+    "Profiles/FP-22 ChocoChip.md",
+    "Profiles/FP-23 Biscuits.md",
+    "Profiles/FP-21 PeacefulOaf.md",
+    "Profiles/FP-20 Mojinate.md",
+    "Profiles/FP-19 SciFive.md",
+    "Profiles/FP-18 LostKeys.md",
+    "Profiles/FP-17 H83.md",
+    "Profiles/FP-16 Darkdodo.md",
+    "Profiles/FP-15 Gorwyn.md",
+    "Profiles/FP-12 Starbuck.md",
+    "Profiles/FP-13 Mazephyr.md",
+    "Profiles/FP-14 Mik.md",
     "Database Overview.md",
-    "Profiles/FP-01 Zapp.md",
+    "Profiles/FP-09 Marc.md",
+    "Profiles/FP-10 Steelshaper.md",
+    "Profiles/FP-11 Zathura.md",
+    "Profiles/FP-08 Pleiades.md",
+    "Profiles/FP-07 Avery Lydian.md",
+    "Profiles/FP-06 Westwood.md",
     "Profiles/! Personnel.md",
-    "Intel/! Intel.md",
+    "Profiles/FP-05 Pleiades.md",
+    "Factions/! Factions.md",
+    "Factions",
+    "Profiles/FP-04 Izzabelle.md",
     "Intel",
-    "Directives/! Directives.md",
-    "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
-    "2023-09-22.md",
     "Directives/Untitled",
     "Directives",
     "Reports/RCC",
     "Profiles/TWC",
     "Reports/TWC",
     "Profiles",
-    "Home.md",
     "! File Templates",
     "Reports"
   ]
