@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Intel  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Reports  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Directives  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701235
+      }
+    },
+    {
+      "query": "path:Profiles  ",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.54351707612106,
+  "collapse-forces": false,
+  "centerStrength": 0.265625,
+  "repelStrength": 12.0833333333333,
+  "linkStrength": 0.817708333333333,
+  "linkDistance": 196,
+  "scale": 0.27652077249187623,
   "close": true
 }

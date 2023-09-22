@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! File Templates/Template - Directive.md",
-                "mode": "source",
+                "file": "Database Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! File Templates/Template - Directive.md",
+                "file": "Database Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! File Templates/Template - Directive.md",
+                "file": "Database Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c0a6577ee76938bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bf490129cef6da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database Overview.md"
               }
             }
           },
@@ -118,33 +134,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6b9ce7b5aae2dcc4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "c0a6577ee76938bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81bf490129cef6da",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "! File Templates/Template - Directive.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,21 +153,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d63288349a8a2b8d",
+  "active": "58193ced2daf0830",
   "lastOpenFiles": [
-    "Directives",
-    "Reports/RCC/RCC Battle Report - 03.09.2200.md",
-    "! File Templates/Template - Directive.md",
-    "Reports/TWC/TWC Invasion of Hale - 13.08.2200.md",
-    "Reports/TWC/TWC Mission Report - 21.09.2200.md",
+    "Profiles/FP-01 Zapp.md",
+    "Profiles/! Personnel.md",
+    "Intel/! Intel.md",
+    "Database Overview.md",
+    "Intel",
+    "Directives/! Directives.md",
+    "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
     "Reports/! Reports.md",
+    "Reports/RCC Battle Report - 03.09.2200.md",
+    "Reports/TWC Invasion of Hale - 13.08.2200.md",
+    "Reports/TWC Mission Report - 21.09.2200.md",
+    "2023-09-22.md",
+    "! File Templates/Template - Directive.md",
+    "Directives/Untitled",
+    "! File Templates/Template - Mission Report.md",
+    "! File Templates/Template - Battle Report.md",
+    "Directives",
     "Reports/RCC",
     "! File Templates/Template - Personnel Profile.md",
-    "Profiles/! Personnel.md",
-    "Profiles/FP-01 Zapp.md",
-    "! File Templates/Template - Mission Report.md",
-    "Database Overview.md",
-    "! File Templates/Template - Battle Report.md",
     "Profiles/TWC",
     "Reports/TWC",
     "Profiles",
