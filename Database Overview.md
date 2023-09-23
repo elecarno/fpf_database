@@ -20,5 +20,3 @@
 - [[Template - Grid Performance Report]]
 - [[Template - Mission Report]]
 - [[Template - Personnel Profile]]
-
-
