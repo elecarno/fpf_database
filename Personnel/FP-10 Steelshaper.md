@@ -7,7 +7,7 @@ RANK/OCCUPATION: `Member of TWC`
 STATUS: `Active in Service`
 
 ### Personnel Log
-- N/A
+- `12.06.2200` - Entered into service with the Four Pillars Federation
 
 ### History / Background
 - N/A

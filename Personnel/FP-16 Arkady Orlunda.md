@@ -3,11 +3,13 @@
 FEDERATION ID: `FP-07`
 NAME: `Arkady Orlunda`
 FACTION: `TWC`
-RANK/OCCUPATION: `Head of the Lydian Workshop`
+RANK/OCCUPATION: `Federation Database Manager` / `Head of the Lydian Workshop`
 STATUS: `Active in Service`
 
 ### Personnel Log
-- N/A
+- `21.09.2200` - Granted role of `Federation Database Manager`
+- `13.08.2200` - Entered into service with the Four Pillars Federation
+- `02.07.2200` - Recovered on Orlunda by [[FP-07 Avery Lydian]]
 
 ### History / Background
 The de-facto daughter of the late Avery Lydian. She was found when a Federation search and rescue mission suddenly came across an unknown beacon sending a hostile signal. After noticing smoke coming from the craft and realising that although they were within weapons range they had not yet been shot at, it was decided that the beacon should be investigated.

@@ -7,7 +7,7 @@ RANK/OCCUPATION: `Leader of UNS`
 STATUS: `On Leave`
 
 ### Personnel Log
-- N/A
+- `17.07.2200` - Entered into service with the Four Pillars Federation
 
 ### History / Background
 - N/A

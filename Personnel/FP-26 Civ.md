@@ -7,7 +7,7 @@ RANK/OCCUPATION: `Member of ICE`
 STATUS: `On Leave`
 
 ### Personnel Log
-- N/A
+- `11.06.2200` - Entered into service with the Four Pillars Federation
 
 ### History / Background
 - N/A
