@@ -8,10 +8,10 @@ DATE: `16.09.2200`
 DIRECTIVE TITLE: Operation Citadel Shield
 
 ### DIRECTIVE OUTLINE
-High Command is thrilled to report the successful progression of our ongoing construction project, all under the exceptional leadership of `Mik`. This achievement is monumental and signals our unwavering commitment to the cause.
+High Command is thrilled to report the successful progression of our ongoing construction project, all under the exceptional leadership of [[FP-14 Mik]]. This achievement is monumental and signals our unwavering commitment to the cause.
 
 **Valhalla Outpost: A Fortress of Titan Proportions**
-`Valhalla Outpost`, the rock-solid bastion of our might, has been transformed into a fortress that would make Rico himself proud. Thanks to `Field Marshal Mik`'s tenacity, it currently boasts:
+[[TWC-S-04 Valhalla Station]], the rock-solid bastion of our might, has been transformed into a fortress that would make Rico himself proud. Thanks to [[FP-14 Mik]]'s tenacity, it currently boasts:
 - Hydrogen Tanks: 122 (Enough to make even a Tanker Bug blush)
 - Assemblers: 2 with 2 speed modules each (Faster than a Bug's leap)
 - Refineries: 4 with 4 yield modules each (Extracting resources like a Morita rifle on full auto)
@@ -32,7 +32,7 @@ May this small combat/prospector do you well
 High Command eagerly anticipates future Upgrades for Valhalla eventual full return.
 
 **Field Marshal Mik - The Roughneck of Our Dreams**
-In recognition of `Field Marshal Mik`'s valiant efforts and unyielding dedication to the `TWC` cause, we hereby dub them "Field Marshal." This promotion is as well-deserved as a Warrior Bug squashed under a boot and demonstrates our utmost respect and confidence in Mik's command.
+In recognition of [[FP-14 Mik]]'s valiant efforts and unyielding dedication to the `TWC` cause, we hereby dub them "Field Marshal." This promotion is as well-deserved as a Warrior Bug squashed under a boot and demonstrates our utmost respect and confidence in Mik's command.
 
 The `TWC` is a family united by a common cause and an unshakable belief in our mission. Field Marshal Mik is a testament to the kind of leadership that propels us forward, and we eagerly await more victories under his command.
 Together, we stand strong against the Symbiote threat. Join us, and let's forge a brighter tomorrow!

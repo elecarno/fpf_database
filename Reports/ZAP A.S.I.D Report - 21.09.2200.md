@@ -3,17 +3,17 @@
 AUTHOR: [[FP-12 Starbuck]], [[ZAP]]
 DATE: `21.09.2200, 17:00`
 REPORT TYPE: INCIDENT / A.S.I.D
-LOCATIONS INVOLVED: `Orlunda`
+LOCATIONS INVOLVED: [[Orlunda]]
 
 ASSETS INVOLVED: N/A
-FACTIONS INVOLVED: ZAP
+FACTIONS INVOLVED: [[ZAP]]
 
 COLOQUIAL TITLE: N/A
 
 ### INCIDENT OUTLINE
-Investigations on the recovered craft have reached milestone A. While COP's assessment and recovery was appreciated they did not shed light on level of damage sustained by the craft. 
+Investigations on the recovered craft have reached milestone A. While `COP`'s assessment and recovery was appreciated they did not shed light on level of damage sustained by the craft. 
 
-I've chosen to make the findings public in order to shed light on the situation, the ZAP craft found today was attacked, intentionally and by multiple means. The damage is NOT consistent with Symbiote weaponry, there are also signs of sabotage...
+I've chosen to make the findings public in order to shed light on the situation, the [[ZAP]] craft found today was attacked, intentionally and by multiple means. The damage is NOT consistent with Symbiote weaponry, there are also signs of sabotage...
 
 The content of the Blackbox will be disclosed once sensitive information is redacted.
 
