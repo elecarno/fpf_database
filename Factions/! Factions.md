@@ -6,9 +6,9 @@ All member factions and allies of the Four Pillars Federation
 - [[ICE]]
 - [[PAX]]
 - [[RCC]]
-- [[TWC]]
+- [[Factions/TWC]]
 - [[ZAP]]
 
 ### Allied Factions
-- LAZ
+- GCP
 

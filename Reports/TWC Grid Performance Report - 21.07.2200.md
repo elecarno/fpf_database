@@ -1,6 +1,6 @@
 #report #clearance_one 
 
-AUTHOR: [[FP-07 Avery Lydian]], [[TWC]]
+AUTHOR: [[FP-07 Avery Lydian]], [[Factions/TWC]]
 DATE: `21.07.2200`
 REPORT TYPE: GRID PERFORMANCE
 

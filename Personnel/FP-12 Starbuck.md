@@ -1,16 +1,15 @@
-#profile #clearance_three 
+#profile #clearance_two  
 
-**LEVEL THREE FILE**
+**LEVEL TWO FILE**
 
 FEDERATION ID: `FP-12`
 NAME: `Starbuck`
 FACTION: [[ZAP]]
 RANK/OCCUPATION: `ZAP Commodore` / `Acting Head of ZAP`
-CLEARANCE LEVEL: THREE
+CLEARANCE LEVEL: TWO
 STATUS: `Active in Service`
 
 ### Personnel Log
-- `21.09.2200` - Granted `CLEARANCE LEVEL THREE` due to the disappearance of [[FP-01 Zapp]]
 - `21.09.2200` - Enacted as `Acting Head of ZAP` due to the disappearance of [[FP-01 Zapp]]
 - `30.07.2200` - Entered into service with the Four Pillars Federation
 

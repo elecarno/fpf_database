@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-14`
 NAME: `Mik`
-FACTION: [[TWC]]
+FACTION: [[Factions/TWC]]
 RANK/OCCUPATION: `TWC Field Marshall`
 CLEARANCE LEVEL: TWO
 STATUS: `Active in Service`

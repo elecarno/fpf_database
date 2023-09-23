@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-07`
 NAME: `Avery Lydian`
-FACTION: [[TWC]]
+FACTION: [[Factions/TWC]]
 RANK/OCCUPATION: `Head of the Lydian Workshop`
 CLEARANCE LEVEL: TWO
 STATUS: `KILLED IN ACTION`

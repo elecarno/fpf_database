@@ -2,7 +2,7 @@
 
 **LEVEL TWO FILE**
 
-AUTHOR: [[FP-03 Meeferradness]], [[TWC]]
+AUTHOR: [[FP-03 Meeferradness]], [[Factions/TWC]]
 DATE: `16.09.2200`
 
 DIRECTIVE TITLE: Operation Citadel Shield

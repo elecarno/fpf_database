@@ -2,7 +2,7 @@
 
 FEDERATION ID: `FP-15`
 NAME: `Gorwyn`
-FACTION: [[TWC]]
+FACTION: [[Factions/TWC]]
 RANK/OCCUPATION: `Member of TWC`
 CLEARANCE LEVEL: ONE
 STATUS: `On Leave`
