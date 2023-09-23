@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-20`
 NAME: `LostKeys`
 FACTION: `H-C`
 RANK/OCCUPATION: `Member of H-C`
+CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`
 
 ### Personnel Log

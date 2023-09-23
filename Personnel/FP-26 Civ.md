@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-26`
 NAME: `Civ`
 FACTION: `ICE`
 RANK/OCCUPATION: `Member of ICE`
+CLEARANCE LEVEL: ONE
 STATUS: `On Leave`
 
 ### Personnel Log

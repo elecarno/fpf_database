@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-22`
 NAME: `ChocoChip`
 FACTION: `TWC`
 RANK/OCCUPATION: `Member of TWC`
+CLEARANCE LEVEL: ONE
 STATUS: `On Leave`
 
 ### Personnel Log

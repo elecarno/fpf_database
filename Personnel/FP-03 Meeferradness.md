@@ -1,9 +1,12 @@
-#profile 
+#profile #clearance_three 
+
+**LEVEL THREE FILE**
 
 FEDERATION ID: `FP-03`
 NAME: `Meeferradness`
 FACTION: `TWC`
 RANK/OCCUPATION: `Director` / `Leader of TWC`
+CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`
 
 ### Personnel Log

@@ -1,9 +1,12 @@
-#profile 
+#profile #clearance_three
+
+**LEVEL THREE FILE**
 
 FEDERATION ID: `FP-01`
 NAME: `Zapp`
 FACTION: `ZAP`
 RANK/OCCUPATION: `Director` / `Leader of ZAP`
+CLEARANCE LEVEL: THREE
 STATUS: `MISSING IN ACTION`
 
 ### Personnel Log

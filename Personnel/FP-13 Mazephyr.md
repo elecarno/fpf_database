@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-13`
 NAME: `Mazephyr`
 FACTION: `ZAP`
 RANK/OCCUPATION: `Member of ZAP`
+CLEARANCE LEVEL: ONE
 STATUS: `On Leave`
 
 ### Personnel Log

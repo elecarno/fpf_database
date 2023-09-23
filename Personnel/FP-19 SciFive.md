@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-19`
 NAME: `SciFive`
 FACTION: `H-C`
 RANK/OCCUPATION: `Leader of H-C`
+CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`
 
 ### Personnel Log

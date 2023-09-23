@@ -1,9 +1,12 @@
-#profile 
+#profile #clearance_two 
+
+**LEVEL TWO FILE**
 
 FEDERATION ID: `FP-05`
 NAME: `Pleiades`
 FACTION: `FMG`
 RANK/OCCUPATION: `Leader of FMG`
+CLEARANCE LEVEL: TWO
 STATUS: `Active in Service`
 
 ### Personnel Log

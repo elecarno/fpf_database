@@ -1,9 +1,10 @@
-#profile 
+#profile #clearance_one 
 
 FEDERATION ID: `FP-09`
 NAME: `Marc`
 FACTION: `UNS`
 RANK/OCCUPATION: `Leader of UNS`
+CLEARANCE LEVEL: ONE
 STATUS: `On Leave`
 
 ### Personnel Log

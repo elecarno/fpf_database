@@ -1,9 +1,12 @@
-#profile 
+#profile #clearance_two 
+
+**LEVEL TWO FILE**
 
 FEDERATION ID: `FP-07`
 NAME: `Avery Lydian`
 FACTION: `TWC`
 RANK/OCCUPATION: `Head of the Lydian Workshop`
+CLEARANCE LEVEL: TWO
 STATUS: `KILLED IN ACTION`
 
 ### Personnel Log

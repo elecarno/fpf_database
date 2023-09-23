@@ -1,9 +1,12 @@
-#profile 
+#profile #clearance_two
+
+**LEVEL TWO FILE**
 
 FEDERATION ID: `FP-04`
 NAME: `Izzabelle Amei`
 FACTION: `ZAP`
 RANK/OCCUPATION: `ZAP Head of Industry`
+CLEARANCE LEVEL: THREE
 STATUS: `On Leave`
 
 ### Personnel Log
