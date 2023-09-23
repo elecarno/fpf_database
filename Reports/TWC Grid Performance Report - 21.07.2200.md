@@ -4,13 +4,13 @@ AUTHOR: [[FP-07 Avery Lydian]], [[Factions/TWC]]
 DATE: `21.07.2200`
 REPORT TYPE: GRID PERFORMANCE
 
-ASSET ASSESSED: `Warship "H.A.D.S"
-FACTIONS INVOLVED: `TWC`
+ASSET ASSESSED: [[TWC-1-02 H.A.D.S]]
+FACTIONS INVOLVED: [[TWC]]
 
 COLOQUIAL TITLE: N/A
 
 ### PERFORMANCE
-- Ship handled well and showed great manvoureability, as per the indended goals of the design.
+- Ship handled well and showed great manvoureability, as per the indented goals of the design.
 - Armour configuration worked better than expected, with the ship still largely operational after several close quarters encounters, and almost no damage was sustained to the core allowing for an unharmed jump drive and safe retreats
 ### IMPROVEMENTS TO BE MADE
 - No beacon/antenna

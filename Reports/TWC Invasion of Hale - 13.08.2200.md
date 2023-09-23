@@ -5,17 +5,17 @@ DATE: `13.08.2200`
 REPORT TYPE: MISSION
 LOCATIONS INVOLVED: `HaleE2`
 
-ASSETS INVOLVED: `Battlecruiser "Witch"`, `Warship "Tempest"`, `TWC Flagship "Ragnarok"`
+ASSETS INVOLVED: [[TWC-3-03 Witch]], [[TWC-1-03 Tempest]], [[TWC-4-03 Ragnarok]]
 FACTIONS INVOLVED: All major active factions at the time
 
 COLOQUIAL TITLE: Invasion of Hale
 
-AFTERMATH SUMMARY: Despite TWC suffering heavy losses, the operation was deemed a success.
+AFTERMATH SUMMARY: Despite [[TWC]] suffering heavy losses, the operation was deemed a success.
 
 ### DAMAGE REPORT
-- `Battlecruiser "Witch`": LOST IN OPERATION
-- `TWC Flagship "Ragnarok"`: LOST IN OPERATION
-- `Warship "Tempest"`: LOST IN OPERATION
+- [[TWC-3-03 Witch]]: LOST IN OPERATION
+- [[TWC-4-03 Ragnarok]]: LOST IN OPERATION
+- [[TWC-1-03 Tempest]]: LOST IN OPERATION
 ### DESCRIPTION OF EVENTS
 **Space Escorts' Flawless Execution:**
 The space escorts assigned to the operation executed their tasks with remarkable precision, ensuring the safe passage and protection of our forces throughout the invasion. Their dedication and expertise were crucial to the overall success of the mission.

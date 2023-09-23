@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Overview.md",
-                "mode": "source",
+                "file": "Personnel/FP-04 Izzabelle.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Personnel/FP-04 Izzabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Personnel/FP-04 Izzabelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Overview.md"
+                "file": "Personnel/FP-04 Izzabelle.md"
               }
             }
           },
@@ -164,33 +164,35 @@
   },
   "active": "f17cd7fed0d2e5ca",
   "lastOpenFiles": [
-    "Assets/! Assets.md",
-    "Assets/ZAP/ZAP-2-02 Avia.md",
-    "Assets/ZAP/ZAP-2-01 Hydro Prime II.md",
-    "Pasted image 20230923150508.png",
-    "Pasted image 20230923150507.png",
-    "Assets/ICE/ICE-4-01 Sword of Damocles.md",
-    "Personnel/FP-12 Starbuck.md",
-    "Personnel/FP-11 Henry Hammer.md",
-    "Personnel/FP-13 Mazephyr.md",
-    "Personnel/FP-14 Mik.md",
-    "Personnel/FP-25 Tallen.md",
-    "Personnel/FP-23 Biscuits.md",
-    "Personnel/FP-22 ChocoChip.md",
-    "Personnel/FP-21 Mojinate Heto.md",
-    "Personnel/FP-20 LostKeys.md",
-    "Personnel/FP-19 SciFive.md",
-    "Personnel/FP-18 H83.md",
-    "Personnel/FP-17 Henri Maudier.md",
-    "Personnel/FP-16 Arkady Orlunda.md",
-    "Personnel/FP-10 Steelshaper.md",
-    "Personnel/FP-08 Boomclaw.md",
-    "Personnel/FP-01 Zapp.md",
-    "Personnel/FP-02 Scheme.md",
-    "Personnel/FP-03 Meeferradness.md",
+    "Database Overview.md",
     "Personnel/FP-04 Izzabelle.md",
     "Personnel/FP-05 Pleiades.md",
-    "Personnel/FP-06 Westwood.md",
+    "! file templates/Template - Personnel Profile.md",
+    "! file templates/Template - Mission Report.md",
+    "! file templates/Template - Incident Report.md",
+    "! file templates/Template - Grid Performance Report.md",
+    "! file templates/Template - Directive.md",
+    "! file templates/Template - Battle Report.md",
+    "! file templates/Template - Asset.md",
+    "Assets/FMG/FMG-1-03 Type-101.md",
+    "Assets/FMG/FMG-1-02 Jump Ring.md",
+    "Assets/FMG/FMG-1-01 Abigail Mk3.md",
+    "Personnel/FP-03 Meeferradness.md",
+    "Personnel/FP-02 Scheme.md",
+    "Personnel/FP-01 Zapp.md",
+    "Personnel/! Personnel.md",
+    "Logs/21.09.2200.md",
+    "Logs/! Logs.md",
+    "Factions/ZAP.md",
+    "Factions/UNS.md",
+    "Factions/TWC.md",
+    "Factions/RCC.md",
+    "Factions/PAX.md",
+    "Factions/ICE.md",
+    "Factions/H-C.md",
+    "Assets/H-C",
+    "Pasted image 20230923150508.png",
+    "Pasted image 20230923150507.png",
     "Assets/FMG",
     "Untitled.canvas",
     "Assets/FPF",
@@ -203,7 +205,6 @@
     "! attachments",
     "Pasted image 20230922194451.png",
     "Pasted image 20230922194452.png",
-    "Factions",
-    "Intel"
+    "Factions"
   ]
 }

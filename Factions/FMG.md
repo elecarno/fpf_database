@@ -1,4 +1,4 @@
-#faction
+#faction #clearance_one 
 
 FACTION CODE: `FMG`
 OFFICIAL NAME: `Free Miners Guild`

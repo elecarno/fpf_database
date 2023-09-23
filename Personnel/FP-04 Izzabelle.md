@@ -10,7 +10,8 @@ CLEARANCE LEVEL: THREE
 STATUS: `On Leave`
 
 ### Personnel Log
-- `22.09.2200` - Status reported as `On Leave`
+- `23.09.2200` - Status reported as `Active In Service`
+- `09.09.2200` - Status reported as `On Leave`
 - `16.07.2200` - Officially entered into service with the Four Pillars Federation, real date unknown.
 ### History / Background
 - N/A
