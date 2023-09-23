@@ -5,7 +5,7 @@ NAME: `Civ`
 FACTION: [[ICE]]
 RANK/OCCUPATION: `Member of ICE`
 CLEARANCE LEVEL: ONE
-STATUS: `On Leave`
+STATUS: `Active In Service`
 
 ### Personnel Log
 - `11.06.2200` - Entered into service with the Four Pillars Federation
