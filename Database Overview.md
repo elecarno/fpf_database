@@ -6,7 +6,6 @@
 - [[! Logs]] - `#log`
 - [[! Personnel]] - `#profile`
 - [[! Reports]] - `#report`
-
 ### Clearance Levels
 `#clearance_one` 
 `#clearance_two`
@@ -16,6 +15,7 @@
 - [[Template - Asset]]
 - [[Template - Battle Report]]
 - [[Template - Directive]]
+- [[Template - Faction]]
 - [[Template - Incident Report]]
 - [[Template - Grid Performance Report]]
 - [[Template - Mission Report]]

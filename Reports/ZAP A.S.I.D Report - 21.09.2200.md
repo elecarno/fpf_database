@@ -1,6 +1,6 @@
 #report #clearance_one 
 
-AUTHOR: [[FP-12 Starbuck]], `ZAP`
+AUTHOR: [[FP-12 Starbuck]], [[ZAP]]
 DATE: `21.09.2200, 17:00`
 REPORT TYPE: INCIDENT / A.S.I.D
 LOCATIONS INVOLVED: `Orlunda`

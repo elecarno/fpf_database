@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-05`
 NAME: `Pleiades`
-FACTION: `FMG`
+FACTION: [[FMG]]
 RANK/OCCUPATION: `Leader of FMG`
 CLEARANCE LEVEL: TWO
 STATUS: `Active in Service`

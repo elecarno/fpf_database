@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-07`
 NAME: `Arkady Orlunda`
-FACTION: `TWC`
+FACTION: [[TWC]]
 RANK/OCCUPATION: `Federation Database Manager` / `Head of the Lydian Workshop`
 CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`

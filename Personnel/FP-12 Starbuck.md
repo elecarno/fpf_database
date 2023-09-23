@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-12`
 NAME: `Starbuck`
-FACTION: `ZAP`
+FACTION: [[ZAP]]
 RANK/OCCUPATION: `ZAP Commodore` / `Acting Head of ZAP`
 CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`

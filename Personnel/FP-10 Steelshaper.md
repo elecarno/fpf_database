@@ -2,7 +2,7 @@
 
 FEDERATION ID: `FP-10`
 NAME: `Steelshaper`
-FACTION: `TWC`
+FACTION: [[TWC]]
 RANK/OCCUPATION: `Member of TWC`
 CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`

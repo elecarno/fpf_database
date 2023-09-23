@@ -2,7 +2,7 @@
 
 FEDERATION ID: `FP-17`
 NAME: `Henri Maudier`
-FACTION: `RCC`
+FACTION: [[RCC]]
 RANK/OCCUPATION: `Member of RCC`
 CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`

@@ -1,6 +1,6 @@
 #report #clearance_one 
 
-AUTHOR: [[FP-16 Arkady Orlunda]], `TWC`
+AUTHOR: [[FP-16 Arkady Orlunda]], [[TWC]]
 DATE: `21.09.2200`
 REPORT TYPE: MISSION
 LOCATIONS INVOLVED: `Orlunda`, `Orlunda's Cradle`, `Orlunda Tower`

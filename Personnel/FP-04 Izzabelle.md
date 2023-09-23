@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-04`
 NAME: `Izzabelle Amei`
-FACTION: `ZAP`
+FACTION: [[ZAP]]
 RANK/OCCUPATION: `ZAP Head of Industry`
 CLEARANCE LEVEL: THREE
 STATUS: `On Leave`

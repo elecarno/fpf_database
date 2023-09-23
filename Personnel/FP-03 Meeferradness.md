@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-03`
 NAME: `Meeferradness`
-FACTION: `TWC`
+FACTION: [[TWC]]
 RANK/OCCUPATION: `Director` / `Leader of TWC`
 CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`

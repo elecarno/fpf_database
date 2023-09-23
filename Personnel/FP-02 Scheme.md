@@ -4,7 +4,7 @@
 
 FEDERATION ID: `FP-02`
 NAME: `Scheme`
-FACTION: `ICE`
+FACTION: [[ICE]]
 RANK/OCCUPATION: `Director` / `Leader of ICE`
 CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`

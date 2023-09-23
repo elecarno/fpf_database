@@ -2,7 +2,7 @@
 
 FEDERATION ID: `FP-20`
 NAME: `LostKeys`
-FACTION: `H-C`
+FACTION: [[H-C]]
 RANK/OCCUPATION: `Member of H-C`
 CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`
