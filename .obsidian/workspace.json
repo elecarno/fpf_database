@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
-                "mode": "source",
+                "file": "Database Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
+                "file": "Database Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
+                "file": "Database Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md"
+                "file": "Database Overview.md"
               }
             }
           },
@@ -164,6 +164,16 @@
   },
   "active": "60f54263c74ffee6",
   "lastOpenFiles": [
+    "! file templates/Template - Asset.md",
+    "Assets/! Assets.md",
+    "! file templates/Template - Mission Report.md",
+    "! file templates/Template - Personnel Profile.md",
+    "Personnel/FP-04 Izzabelle.md",
+    "Personnel/! Personnel.md",
+    "! file templates/Template - Battle Report.md",
+    "Assets/TWC",
+    "Database Overview.md",
+    "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
     "Reports/UNS Incident Report - 25.07.2200.md",
     "Reports/TWC Mission Report - 21.09.2200.md",
     "Reports/TWC Invasion of Hale - 13.08.2200.md",
@@ -172,7 +182,6 @@
     "Reports/! Reports.md",
     "Logs/21.09.2200.md",
     "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
-    "! file templates/Template - Personnel Profile.md",
     "Personnel/FP-27 Charles.md",
     "Personnel/FP-26 Civ.md",
     "Personnel/FP-25 Tallen.md",
@@ -182,14 +191,6 @@
     "Personnel/FP-21 Mojinate Heto.md",
     "Personnel/FP-20 LostKeys.md",
     "Personnel/FP-19 SciFive.md",
-    "Personnel/FP-18 H83.md",
-    "Personnel/FP-17 Henri Maudier.md",
-    "Personnel/FP-16 Arkady Orlunda.md",
-    "Personnel/FP-15 Gorwyn.md",
-    "Personnel/FP-14 Mik.md",
-    "Personnel/FP-13 Mazephyr.md",
-    "Personnel/FP-07 Avery Lydian.md",
-    "Personnel/FP-12 Starbuck.md",
     "Assets",
     "Logs",
     "! attachments/zap_wreckage_at_orlunda_tower.png",
@@ -201,7 +202,6 @@
     "Directives/Untitled",
     "Directives",
     "Reports/RCC",
-    "Profiles/TWC",
-    "Reports/TWC"
+    "Profiles/TWC"
   ]
 }

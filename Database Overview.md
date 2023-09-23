@@ -13,10 +13,12 @@
 `#clearance_three`
 
 ### File Templates
-- [[Template - Mission Report]]
+- [[Template - Asset]]
 - [[Template - Battle Report]]
-- [[Template - Personnel Profile]]
 - [[Template - Directive]]
 - [[Template - Incident Report]]
 - [[Template - Grid Performance Report]]
-- [[Template - Asset]]
+- [[Template - Mission Report]]
+- [[Template - Personnel Profile]]
+
+
