@@ -30,3 +30,4 @@ All assets listed by faction
 
 ### ZAP
 - [[ZAP-2-01 Hydro Prime II]]
+- [[ZAP-2-02 Avia]]
