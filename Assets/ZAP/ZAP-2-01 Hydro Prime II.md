@@ -2,7 +2,7 @@
 
 ASSET ID: `ZAP-2-01`
 TYPE & TIER: `Large Ship`, `Tier 2`
-CLASS: `Hydro Prime II` - [[FP-01 Zapp]]]
+CLASS: `Hydro Prime II` - [[FP-01 Zapp]]
 DESIGNATION: `Hydrogen Hauler`
 NAME: `Hydro Prime II`
 STATUS: `In Active Use`

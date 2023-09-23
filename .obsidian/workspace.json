@@ -11,8 +11,12 @@
             "id": "f17cd7fed0d2e5ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assets/ZAP/ZAP-2-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assets/ZAP/ZAP-2-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assets/ZAP/ZAP-2-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assets/ZAP/ZAP-2-02.md"
+              }
             }
           },
           {
@@ -156,6 +164,10 @@
   },
   "active": "f17cd7fed0d2e5ca",
   "lastOpenFiles": [
+    "Pasted image 20230923150508.png",
+    "Pasted image 20230923150507.png",
+    "Assets/ZAP/ZAP-2-01 Hydro Prime II.md",
+    "Assets/ZAP/ZAP-2-02.md",
     "Assets/! Assets.md",
     "Assets/ICE/ICE-4-01 Sword of Damocles.md",
     "Personnel/FP-12 Starbuck.md",
@@ -179,9 +191,6 @@
     "Personnel/FP-04 Izzabelle.md",
     "Personnel/FP-05 Pleiades.md",
     "Personnel/FP-06 Westwood.md",
-    "Personnel/FP-07 Avery Lydian.md",
-    "Personnel/FP-09 Marc.md",
-    "Assets/TWC/TWC-1-04 Camellia.md",
     "Assets/FMG",
     "Untitled.canvas",
     "Assets/FPF",

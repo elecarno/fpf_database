@@ -29,4 +29,4 @@ All assets listed by faction
 - [[TWC-S-05 F1 Claim Station]]
 
 ### ZAP
-- [[ZAP-2-01, Hydro Prime II]]
+- [[ZAP-2-01 Hydro Prime II]]
