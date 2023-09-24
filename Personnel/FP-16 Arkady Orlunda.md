@@ -10,6 +10,7 @@ CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`
 
 ### Personnel Log
+- `23.09.2200` - Placed in indefinite Cryogenic Stasis due to critical injuries sustained during operation: [[TWC Automated Medical Report - 23.09.2200]]
 - `21.09.2200` - Granted role of `Federation Database Manager`
 - `13.08.2200` - Entered into service with the Four Pillars Federation
 - `05.07.2200` - Identified as infected by unknown Symbiote virus.
