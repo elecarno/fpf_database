@@ -4,13 +4,13 @@
 
 FEDERATION ID: `FP-07`
 NAME: `Avery Lydian`
-FACTION: [[Factions/TWC]]
+FACTION: [[TWC]]
 RANK/OCCUPATION: `Head of the Lydian Workshop`
 CLEARANCE LEVEL: TWO
 STATUS: `KILLED IN ACTION`
 
 ### Personnel Log
-- `13.08.2200` - Status reported as `KILLED IN ACTION`
+- `13.08.2200` - Status reported as `KILLED IN ACTION`: [[TWC Invasion of Hale - 13.08.2200]]
 - `11.06.2200` - Entered into service with the Four Pillars Federation
 
 ### History / Background

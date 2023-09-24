@@ -26,7 +26,7 @@
 - [[FP-25 Tallen]]
 - [[FP-26 Civ]]
 - [[FP-27 Charles]]
-- [[FP-28 Boomclaw]]
+- [[FP-28 Hector Andromedus]]
 
 ### Federation Secondaries
 - FS-01 : ZAP John Flurgundy
