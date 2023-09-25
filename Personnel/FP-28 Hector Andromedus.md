@@ -7,7 +7,7 @@ RANK/OCCUPATION: `Member of RCC`
 CLEARANCE LEVEL: ONE
 STATUS: `Active in Service`
 
-### Personnel Log`
+### Personnel Log
 - `23.09.2200` - Entered into service with the Four Pillars Federation
 
 ### History / Background
