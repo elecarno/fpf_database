@@ -11,12 +11,8 @@
             "id": "cb600090e8232bce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnel/! Personnel.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnel/! Personnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnel/! Personnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personnel/! Personnel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,32 +156,32 @@
   },
   "active": "cb600090e8232bce",
   "lastOpenFiles": [
-    "Personnel/FP-28 Hector Andromedus.md",
+    "Database Overview.md",
+    "Reports/! Reports.md",
+    "Assets/TWC/TWC-S-03 Lydian Workshop.md",
+    "Reports/TWC Attack on the Brain - 23.09.2200.md",
+    "Assets/TWC/TWC-2-02 Destroyer Class Mk7.md",
+    "Assets/TWC/TWC-1-07 Warden.md",
+    "Assets/TWC/TWC-1-06 Lydian Heavy Miner.md",
+    "Assets/TWC/TWC-2-01 Hammer.md",
+    "Assets/TWC/TWC-1-08 Valkyrie Mk2.md",
+    "Reports/TWC Invasion of Hale - 13.08.2200.md",
+    "Assets/TWC/TWC-1-04 Camellia.md",
+    "Assets/TWC/TWC-1-05 Operator.md",
+    "Assets/TWC/TWC-3-04 Theia.md",
     "Personnel/! Personnel.md",
+    "Personnel/FP-28 Hector Andromedus.md",
     "Personnel/FP-17 Henri Maudier.md",
     "Personnel/FP-11 Henry Hammer.md",
     "Personnel/FP-07 Avery Lydian.md",
     "Personnel/FP-16 Arkady Orlunda.md",
     "Personnel/FP-18 H83.md",
-    "Database Overview.md",
     "Reports/UNS Incident Report - 25.07.2200.md",
     "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
     "Reports/TWC Mission Report - 21.09.2200.md",
     "Personnel/FP-26 Civ.md",
     "Personnel/FP-13 Mazephyr.md",
-    "Reports/! Reports.md",
     "Reports/TWC Automated Medical Report - 23.09.2200.md",
-    "Reports/TWC Medical Report.md",
-    "Personnel/FP-27 Charles.md",
-    "Personnel/FP-19 SciFive.md",
-    "Personnel/FP-20 LostKeys.md",
-    "Personnel/FP-21 Mojinate Heto.md",
-    "Personnel/FP-24 PeacefulOaf.md",
-    "Personnel/FP-25 Tallen.md",
-    "Assets/TWC/TWC-1-07 Warden.md",
-    "Intel/! Intel.md",
-    "Intel/System Info/Avalon Survey 23.09.2200.md",
-    "Personnel/FP-15 Gorwyn.md",
     "Intel/System Info",
     "Intel/Planetary Bodies",
     "Assets/H-C",
