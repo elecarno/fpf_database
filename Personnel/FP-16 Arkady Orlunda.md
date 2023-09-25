@@ -19,6 +19,7 @@ STATUS: `Active in Service`
 ### History / Background
 `13.08.2200`
 The de-facto daughter of the late [[FP-07 Avery Lydian]]. She was found when a Federation search and rescue mission suddenly came across an unknown beacon sending a hostile signal. After noticing smoke coming from the craft and realising that although they were within weapons range they had not yet been shot at, it was decided that the beacon should be investigated.
+
 The team found what looked like a crashed emergency escape pod, and inside was a girl who called herself "Arkady". She claims to have been born on [[Orlunda]], yet has little recollection off her life from before her crash landing.
 
 She was taken to [[FP-07 Avery Lydian]], who took her in and decided to teach her shipbuilding. She was given "Orlunda" as a last name in honour of her rescue.
