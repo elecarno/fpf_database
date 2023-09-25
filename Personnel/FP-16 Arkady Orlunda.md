@@ -23,6 +23,7 @@ The de-facto daughter of the late [[FP-07 Avery Lydian]]. She was found when a F
 The team found what looked like a crashed emergency escape pod, and inside was a girl who called herself "Arkady". She claims to have been born on [[Orlunda]], yet has little recollection off her life from before her crash landing.
 
 She was taken to [[FP-07 Avery Lydian]], who took her in and decided to teach her shipbuilding. She was given "Orlunda" as a last name in honour of her rescue.
+
 Upon [[FP-07 Avery Lydian]]'s death, she was chosen to be the successor to him as overseer of the [[TWC-S-03 Lydian Workshop]] and will be taking his former position in [[TWC]].
 
 `05.07.2200`
