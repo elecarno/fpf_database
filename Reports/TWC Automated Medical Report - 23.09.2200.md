@@ -2,7 +2,7 @@
 
 **LEVEL THREE FILE**
 
-PATIENT: `FP-16 Arkady Orlunda`
+PATIENT: [[FP-16 Arkady Orlunda]]
 CONDITION: `CRITICAL, STABALISED`
 
 DETAILS:
@@ -14,7 +14,7 @@ DETAILS:
 - All vital organs show signs of severe impact trauma
 
 PRESUMED EVENTS:
-While piloting the Warden, the ship's CIC experienced a critical breach. This caused the internal cockpit windows of the piloting module in which Arkady was seated to shatter into shrapnel which Arkady proceeded to block using her right arm.
+While piloting the [[TWC-1-07 Warden]], the ship's CIC experienced a critical breach. This caused the internal cockpit windows of the piloting module in which Arkady was seated to shatter into shrapnel which Arkady proceeded to block using her right arm.
 
 From here she ventured into EVA, where a stray artillery round eviscerated her right arm, with the heat cauterizing the wound and welding her suit to the wounded flesh, allowing for a pressurised seal to be maintained.
 
