@@ -7,8 +7,8 @@ CONDITION: `CRITICAL, STABALISED`
 
 DETAILS:
 - Right eye ruptured due to explosive decompression of starship CIC module and improper helmet sealing.
-- Numerous lacerations across right arm due to shrapnel from shattered cockpit windows. Several pieces of reinforced glass present in wounds.
-- left arm missing with cauterized wound, presumed eviscerated by kinetic artillery round.
+- Numerous lacerations across left arm due to shrapnel from shattered cockpit windows. Several pieces of reinforced glass present in wounds.
+- Right arm missing with cauterized wound, presumed eviscerated by kinetic artillery round.
 - Right knee shattered and left foot dislocated from impact with starship hull during emergency boarding.
 - Several ribs broken.
 - All vital organs show signs of severe impact trauma
