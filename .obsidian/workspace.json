@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb6d367b245248d",
+        "id": "fee87078b6f11d74",
         "type": "tabs",
         "children": [
           {
-            "id": "cb600090e8232bce",
+            "id": "5b28dc439f721669",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assets/TWC/TWC-S-03 Lydian Workshop.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assets/TWC/TWC-S-03 Lydian Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assets/TWC/TWC-S-03 Lydian Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assets/TWC/TWC-S-03 Lydian Workshop.md"
+              }
             }
           },
           {
@@ -154,10 +162,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb600090e8232bce",
+  "active": "5b28dc439f721669",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Reports/TWC Automated Medical Report - 23.09.2200.md",
     "Database Overview.md",
+    "conflict-files-obsidian-git.md",
     "Reports/! Reports.md",
     "Assets/TWC/TWC-S-03 Lydian Workshop.md",
     "Reports/TWC Attack on the Brain - 23.09.2200.md",
@@ -181,7 +190,6 @@
     "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
     "Reports/TWC Mission Report - 21.09.2200.md",
     "Personnel/FP-26 Civ.md",
-    "Personnel/FP-13 Mazephyr.md",
     "Intel/System Info",
     "Intel/Planetary Bodies",
     "Assets/H-C",
