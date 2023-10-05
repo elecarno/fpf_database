@@ -2,7 +2,7 @@
 
 ASSET ID: `FMG-1-01`
 TYPE & TIER: `Large Ship`, `Tier 1`
-CLASS: `Abigail Mk3` - [[FP-05 Armion Pleiades XII]]
+CLASS: `Abigail Mk3` - [[FP-05 Armion Pleiades III]]
 DESIGNATION: `Mining / Construction / Salvage / Freight`
 NAME: `Abigail`
 STATUS: `In Active Use`

@@ -1,6 +1,6 @@
 #report #clearance_one
 
-AUTHOR: [[FP-05 Armion Pleiades XII]], [[FMG]]
+AUTHOR: [[FP-05 Armion Pleiades III]], [[FMG]]
 DATE: 05/10/2200
 REPORT TYPE: BATTLE
 LOCATIONS INVOLVED: [[HaleE2]]
