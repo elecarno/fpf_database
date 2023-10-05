@@ -3,7 +3,7 @@
 **LEVEL TWO FILE**
 
 FEDERATION ID: `FP-05`
-NAME: `Pleiades`
+NAME: `Armion Pleiades XII`
 FACTION: [[FMG]]
 RANK/OCCUPATION: `Leader of FMG`
 CLEARANCE LEVEL: TWO

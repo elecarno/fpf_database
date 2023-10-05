@@ -2,7 +2,7 @@
 
 ASSET ID: `FMG-1-03`
 TYPE & TIER: `Large Ship`, `Tier 1`
-CLASS: `T-101` - [[FP-05 Pleiades]]
+CLASS: `T-101` - [[FP-05 Armion Pleiades XII]]
 DESIGNATION: `Modular / All Purpose`
 NAME: `Type-101 Modulatr Ship Frame`
 STATUS: `In Active Use`

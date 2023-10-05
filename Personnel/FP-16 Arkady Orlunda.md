@@ -10,6 +10,7 @@ CLEARANCE LEVEL: THREE
 STATUS: `Active in Service`
 
 ### Personnel Log
+- `28.09.2200` - Status reported as `Active in Service`: [[28.09.2200]]
 - `23.09.2200` - Placed in indefinite Cryogenic Stasis due to critical injuries sustained during mission: [[TWC Automated Medical Report - 23.09.2200]]
 - `21.09.2200` - Granted role of `Federation Database Manager`
 - `13.08.2200` - Entered into service with the Four Pillars Federation
