@@ -7,9 +7,10 @@ NAME: `Zapp`
 FACTION: [[ZAP]]
 RANK/OCCUPATION: `Director` / `Leader of ZAP`
 CLEARANCE LEVEL: THREE
-STATUS: `MISSING IN ACTION`
+STATUS: `KILLED IN ACTION`
 
 ### Personnel Log
+- `05.10.2200` - Status reported as `KILLED IN ACTION`: [[05.10.2200]]
 - `21.09.2200` - Status reported as `MISSING IN ACTION`
 - `10.06.2200` - Entered into service with the Four Pillars Federation
 

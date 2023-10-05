@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/! Reports.md",
+                "file": "Logs/05.10.2200.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/! Reports.md",
+                "file": "Logs/05.10.2200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/! Reports.md",
+                "file": "Logs/05.10.2200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/! Reports.md"
+                "file": "Logs/05.10.2200.md"
               }
             }
           },
@@ -164,17 +164,19 @@
   },
   "active": "3c9a0d41687666ff",
   "lastOpenFiles": [
+    "Personnel/FP-01 Zapp.md",
+    "Logs/05.10.2200.md",
+    "Factions/ZAP.md",
+    "Reports/! Reports.md",
     "Reports/TWC Mission Report - 05.10.2200.md",
     "Reports/TWC Mission Report - 21.09.2200.md",
     "Reports/TWC Invasion of Hale - 13.08.2200.md",
     "Database Overview.md",
     "Personnel/FP-07 Avery Lydian.md",
     "Logs/28.09.2200.md",
-    "Logs/Untitled.md",
     "Personnel/FP-16 Arkady Orlunda.md",
     "Reports/TWC Automated Medical Report - 23.09.2200.md",
     "conflict-files-obsidian-git.md",
-    "Reports/! Reports.md",
     "Assets/TWC/TWC-S-03 Lydian Workshop.md",
     "Reports/TWC Attack on the Brain - 23.09.2200.md",
     "Assets/TWC/TWC-2-02 Destroyer Class Mk7.md",
@@ -188,8 +190,6 @@
     "Personnel/! Personnel.md",
     "Personnel/FP-28 Hector Andromedus.md",
     "Personnel/FP-17 Henri Maudier.md",
-    "Personnel/FP-11 Henry Hammer.md",
-    "Personnel/FP-18 H83.md",
     "Intel/System Info",
     "Intel/Planetary Bodies",
     "Assets/H-C",
