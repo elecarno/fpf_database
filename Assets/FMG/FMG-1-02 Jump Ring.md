@@ -2,7 +2,7 @@
 
 ASSET ID: `FMG-1-02`
 TYPE & TIER: `Large Ship`, `Tier 1`
-CLASS: `FMG Jump Ring` - [[FP-05 Pleiades]]
+CLASS: `FMG Jump Ring` - [[FP-05 Armion Pleiades III]]
 DESIGNATION: `Peripheral`
 NAME: `FMG Jump Ring`
 STATUS: `In Active Use`

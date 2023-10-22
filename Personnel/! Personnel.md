@@ -3,7 +3,7 @@
 - [[FP-02 Scheme]]
 - [[FP-03 Meeferradness]]
 - [[FP-04 Izzabelle]]
-- [[FP-05 Pleiades]]
+- [[FP-05 Armion Pleiades III]]
 - [[FP-06 Westwood]]
 - [[FP-07 Avery Lydian]]
 - [[FP-08 Boomclaw]]

@@ -3,9 +3,9 @@
 **LEVEL TWO FILE**
 
 FEDERATION ID: `FP-05`
-NAME: `Pleiades`
+NAME: `Armion Pleiades III`
 FACTION: [[FMG]]
-RANK/OCCUPATION: `Leader of FMG`
+RANK/OCCUPATION: `Leader (Guildmaster) of FMG`
 CLEARANCE LEVEL: TWO
 STATUS: `Active in Service`
 

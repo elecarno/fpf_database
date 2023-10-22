@@ -4,7 +4,11 @@ Reports are sorted by their author's faction.
 - [[FPF High Court - 04.08.2200]]
 
 ### FMG
+<<<<<<< HEAD
 - [[FMG Hunting Party - 05.11.2200]]
+=======
+- [[FMG Battle Report - 05.10.2200]]
+>>>>>>> origin/main
 ### RCC
 - [[RCC Battle Report - 03.09.2200]]
 - [[RCC Battle of the Lungs - 10.21.2200]]
