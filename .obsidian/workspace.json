@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Personnel/FP-03 Meeferradness.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Personnel/FP-03 Meeferradness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Overview.md",
+                "file": "Personnel/FP-03 Meeferradness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Overview.md"
+                "file": "Personnel/FP-03 Meeferradness.md"
               }
             }
           },
@@ -164,8 +164,14 @@
   },
   "active": "84004ec9ca72b80f",
   "lastOpenFiles": [
-    "Personnel/! Personnel.md",
+    "Personnel/FP-02 Scheme.md",
     "Database Overview.md",
+    "conflict-files-obsidian-git.md",
+    "Reports/RCC Battle of the Lungs - 10.21.2200.md",
+    "Reports/FPF High Court - 26.07.2200.md",
+    "Reports/FPF High Court - 04.08.2200.md",
+    "Reports/FMG Hunting Party - 05.11.2200.md",
+    "Personnel/! Personnel.md",
     "Reports/FMG Battle Report - 05.10.2200.md",
     "Reports/! Reports.md",
     "Personnel/FP-05 Armion Pleiades III.md",
@@ -174,7 +180,6 @@
     "Reports/TWC Mission Report - 21.09.2200.md",
     "Reports/TWC Grid Performance Report - 21.07.2200.md",
     "Reports/RCC Battle Report - 03.09.2200.md",
-    "conflict-files-obsidian-git.md",
     "Reports/TWC Attack on the Brain - 23.09.2200.md",
     "Logs/28.09.2200.md",
     "Logs/05.10.2200.md",
@@ -185,11 +190,6 @@
     "Assets/TWC/TWC-3-03 Witch.md",
     "Logs/23.09.2200.md",
     "Personnel/FP-17 Henri Maudier.md",
-    "Personnel/FP-28 Hector Andromedus.md",
-    "Personnel/FP-15 Gorwyn.md",
-    "Personnel/FP-16 Arkady Orlunda.md",
-    "Personnel/FP-07 Avery Lydian.md",
-    "Factions/TWC.md",
     "Intel/System Info",
     "Intel/Planetary Bodies",
     "Assets/H-C",
