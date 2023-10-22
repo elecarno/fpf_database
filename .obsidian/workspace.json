@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a746b8d3d11c956",
+        "id": "2420e5dcd444ec10",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9a0d41687666ff",
+            "id": "1cc2b09b401ba268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/05.10.2200.md",
+                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/05.10.2200.md",
+                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/05.10.2200.md",
+                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/05.10.2200.md"
+                "file": "Reports/ZAP A.S.I.D Report - 21.09.2200.md"
               }
             }
           },
@@ -162,34 +162,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c9a0d41687666ff",
+  "active": "d63288349a8a2b8d",
   "lastOpenFiles": [
-    "Personnel/FP-01 Zapp.md",
+    "Reports/TWC Mission Report - 21.09.2200.md",
+    "Reports/UNS Incident Report - 25.07.2200.md",
+    "Reports/ZAP A.S.I.D Report - 21.09.2200.md",
+    "Directives/FPF Emergency Broadcast - 21.09.2200.md",
+    "Directives/TWC Operation Citadel Shield - 16.09.2200.md",
+    "Logs/21.09.2200.md",
     "Logs/05.10.2200.md",
-    "Factions/ZAP.md",
+    "Logs/23.09.2200.md",
+    "Logs/28.09.2200.md",
+    "Database Overview.md",
     "Reports/! Reports.md",
     "Reports/TWC Mission Report - 05.10.2200.md",
-    "Reports/TWC Mission Report - 21.09.2200.md",
     "Reports/TWC Invasion of Hale - 13.08.2200.md",
-    "Database Overview.md",
-    "Personnel/FP-07 Avery Lydian.md",
-    "Logs/28.09.2200.md",
-    "Personnel/FP-16 Arkady Orlunda.md",
+    "Reports/TWC Grid Performance Report - 21.07.2200.md",
     "Reports/TWC Automated Medical Report - 23.09.2200.md",
-    "conflict-files-obsidian-git.md",
-    "Assets/TWC/TWC-S-03 Lydian Workshop.md",
     "Reports/TWC Attack on the Brain - 23.09.2200.md",
-    "Assets/TWC/TWC-2-02 Destroyer Class Mk7.md",
-    "Assets/TWC/TWC-1-07 Warden.md",
-    "Assets/TWC/TWC-1-06 Lydian Heavy Miner.md",
-    "Assets/TWC/TWC-2-01 Hammer.md",
-    "Assets/TWC/TWC-1-08 Valkyrie Mk2.md",
-    "Assets/TWC/TWC-1-04 Camellia.md",
-    "Assets/TWC/TWC-1-05 Operator.md",
-    "Assets/TWC/TWC-3-04 Theia.md",
-    "Personnel/! Personnel.md",
-    "Personnel/FP-28 Hector Andromedus.md",
+    "Reports/RCC Battle Report - 03.09.2200.md",
+    "Reports/RCC Battle of the Lungs - 10.21.2200.md",
+    "Reports/FPF High Court - 26.07.2200.md",
+    "Reports/FPF High Court - 04.08.2200.md",
+    "Reports/FMG Hunting Party - 05.11.2200.md",
+    "Reports/Untitled",
     "Personnel/FP-17 Henri Maudier.md",
+    "Personnel/FP-15 Gorwyn.md",
+    "Personnel/FP-13 Mazephyr.md",
+    "Personnel/FP-10 Steelshaper.md",
+    "Personnel/FP-08 Boomclaw.md",
     "Intel/System Info",
     "Intel/Planetary Bodies",
     "Assets/H-C",
@@ -202,7 +203,6 @@
     "Assets/ZAP",
     "Assets/TWC",
     "Assets",
-    "Logs",
     "! attachments/zap_wreckage_at_orlunda_tower.png",
     "Pasted image 20230922194451.png",
     "Pasted image 20230922194452.png"

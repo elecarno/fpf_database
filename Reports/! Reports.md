@@ -1,7 +1,13 @@
 Reports are sorted by their author's faction.
+### Federal
+- [[FPF High Court - 26.07.2200]]
+- [[FPF High Court - 04.08.2200]]
 
+### FMG
+- [[FMG Hunting Party - 05.11.2200]]
 ### RCC
 - [[RCC Battle Report - 03.09.2200]]
+- [[RCC Battle of the Lungs - 10.21.2200]]
 
 ### TWC
 - [[TWC Grid Performance Report - 21.07.2200]]
